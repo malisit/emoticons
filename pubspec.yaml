@@ -1,6 +1,6 @@
 name: emoticons
-description: Output emojis in command line applications for dart.
-version: 0.1.0
+description: Use emojis in your strings.
+version: 0.1.1
 author: Muhammed Ali Sit <sitmuhammedali@gmail.com>
 homepage: https://www.github.com/malisit/emoticons
 
