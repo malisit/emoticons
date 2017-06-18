@@ -6,10 +6,10 @@ Use emojis in your strings.
 
 A simple usage example:
 
-    import 'package:emoticons/emoticons.dart';
+```dart
+import 'package:emoticons/emoticons.dart';
 
-    main() {
-      print(emojify("That's cool :cool:!"));
-    }
-
-
+main() {
+  print(emojify("That's cool :cool:!"));
+}
+```
