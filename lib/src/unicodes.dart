@@ -285,7 +285,6 @@ var unicode_map = {
 	":tada:":"\u{1F389}",
 	":confetti_ball:":"\u{1F38A}",
 	":tanabata_tree:":"\u{1F38B}",
-	":crossed_flags:":"\u{1F38C}",
 	":bamboo:":"\u{1F38D}",
 	":dolls:":"\u{1F38E}",
 	":flags:":"\u{1F38F}",
@@ -326,7 +325,6 @@ var unicode_map = {
 	":tennis:":"\u{1F3BE}",
 	":ski:":"\u{1F3BF}",
 	":basketball:":"\u{1F3C0}",
-	":checkered_flag:":"\u{1F3C1}",
 	":snowboarder:":"\u{1F3C2}",
 	":runner:":"\u{1F3C3}",
 	":running :":"\u{1F3C3}",
@@ -733,7 +731,6 @@ var unicode_map = {
 	":traffic_light:":"\u{1F6A5}",
 	":construction:":"\u{1F6A7}",
 	":rotating_light:":"\u{1F6A8}",
-	":triangular_flag_on_post:":"\u{1F6A9}",
 	":door:":"\u{1F6AA}",
 	":no_entry_sign:":"\u{1F6AB}",
 	":smoking:":"\u{1F6AC}",
@@ -873,4 +870,23 @@ var unicode_map = {
 	":water_buffalo:":"\u{1F403}",
 	":neutral_face:":"\u{1F610}",
 	":clock1230:":"\u{1F567}",
+	// Smileys & People
+	
+	// Animals & Nature
+	
+	// Food & Drink
+	
+	// Activity
+	
+	// Travel & Places
+	
+	// Objects
+	
+	// Symbols
+
+	// Flags
+	":checkered_flag:":"\u{1F3C1}",          // http://📙.la/🏁
+	":triangular_flag_on_post:":"\u{1F6A9}", // http://📙.la/🚩
+	":crossed_flags:":"\u{1F38C}", 		 // http://📙.la/🎌
+	
 };
